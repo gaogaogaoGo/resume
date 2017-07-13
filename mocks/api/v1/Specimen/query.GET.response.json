@@ -1,0 +1,35 @@
+{
+  "result": {
+    "displayCount": 12,
+    "totalCount": 120,
+    "items": [
+      {
+        "displayName": "细胞壁",
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg",
+        "zoom": 40,
+        "width": 109252,
+        "height": 72704,
+        "browserCount": 121,
+        "dyeing": "HE染色",
+        "from": "狗",
+        "id": 1
+      },
+      {
+        "displayName": "细胞壁",
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg",
+        "zoom": 40,
+        "width": 109252,
+        "height": 72704,
+        "browserCount": 120,
+        "dyeing": "HE染色",
+        "from": "狗",
+        "id": 2
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

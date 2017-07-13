@@ -1,0 +1,22 @@
+{
+  "result": {
+    "content": "aaaaaaaa",
+    "creationTime": "2017-05-16T11:38:17.0737621Z",
+    "replayCount": 0,
+    "isLike": false,
+    "likeCount": 0,
+    "author": {
+      "userName": "xijinping",
+      "name": "习近平",
+      "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170513132138.png",
+      "signature": "一带一路才是王道！!",
+      "id": 4
+    },
+    "id": 11
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

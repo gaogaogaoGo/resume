@@ -1,0 +1,71 @@
+{
+  "result": [
+    {
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "homeworkName": "作业1",
+      "level": "E",
+      "name": "习近平",
+      "score": 20,
+      "studentNo": null,
+      "userName": "xijinping"
+    },
+    {
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "homeworkName": "作业1",
+      "level": "E",
+      "name": "习近平",
+      "score": 52,
+      "studentNo": null,
+      "userName": "xijinping"
+    },
+    {
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "homeworkName": "作业1",
+      "level": "E",
+      "name": "习近平",
+      "score": 2,
+      "studentNo": null,
+      "userName": "xijinping"
+    },
+    {
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "homeworkName": "作业1",
+      "level": "E",
+      "name": "习近平",
+      "score": 2,
+      "studentNo": null,
+      "userName": "xijinping"
+    },
+    {
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "homeworkName": "作业1",
+      "level": "E",
+      "name": "习近平",
+      "score": 2,
+      "studentNo": null,
+      "userName": "xijinping"
+    },
+    {
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "homeworkName": "作业1",
+      "level": "E",
+      "name": "习近平",
+      "score": 2,
+      "studentNo": null,
+      "userName": "xijinping"
+    }
+
+  ],
+
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

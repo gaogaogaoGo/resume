@@ -1,0 +1,132 @@
+{
+  "result": {
+    "items": [
+      {
+        "parentId": null,
+        "code": "00001",
+        "displayName": "部门1",
+        "memberCount": 0,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:37Z",
+        "creatorUserId": 1,
+        "id": 1
+      },
+      {
+        "parentId": null,
+        "code": "00001.00001",
+        "displayName": "部门2",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 12
+      },
+      {
+        "parentId": 1,
+        "code": "00001.00001",
+        "displayName": "子部门11",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 3
+      },
+      {
+        "parentId": 1,
+        "code": "00001.00001",
+        "displayName": "子部门12",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 4
+      },
+      {
+        "parentId": 12,
+        "code": "00001.00001",
+        "displayName": "子部门21",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 5
+      },
+      {
+        "parentId": 5,
+        "code": "00001.00001",
+        "displayName": "子部门51",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 6
+      },
+      {
+        "parentId": 5,
+        "code": "00001.00001",
+        "displayName": "子部门52",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 7
+      },
+      {
+        "parentId": 5,
+        "code": "00001.00001",
+        "displayName": "子部门53",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 8
+      },
+      {
+        "parentId": 8,
+        "code": "00001.00001",
+        "displayName": "子部门53",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 8
+      },
+      {
+        "parentId": 8,
+        "code": "00001.00001",
+        "displayName": "子部门53",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 8
+      },
+      {
+        "parentId": 8,
+        "code": "00001.00001",
+        "displayName": "子部门53",
+        "memberCount": 3,
+        "lastModificationTime": null,
+        "lastModifierUserId": null,
+        "creationTime": "2017-05-16T16:48:56Z",
+        "creatorUserId": 1,
+        "id": 8
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

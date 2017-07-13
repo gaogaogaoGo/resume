@@ -1,0 +1,40 @@
+{
+  "result": [
+    {
+      "urrentLearnCount": 142,
+      "lastModificationTime": "2017-05-04T15:48:34Z",
+      "name": "第一课时",
+      "id": 1
+    },
+    {
+      "urrentLearnCount": 124,
+      "lastModificationTime": "2017-05-04T15:48:34Z",
+      "name": "第二课时",
+      "id": 2
+    },
+    {
+      "urrentLearnCount": 112,
+      "lastModificationTime": "2017-05-04T15:48:34Z",
+      "name": "第三课时",
+      "id": 3
+    },
+    {
+      "urrentLearnCount": 122,
+      "lastModificationTime": "2017-05-04T15:48:34Z",
+      "name": "第四课时",
+      "id": 4
+    },
+    {
+      "urrentLearnCount": 123,
+      "lastModificationTime": "2017-05-04T15:48:34Z",
+      "name": "第五课时",
+      "id": 5
+    }
+  ],
+
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

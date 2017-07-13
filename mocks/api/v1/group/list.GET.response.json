@@ -1,0 +1,24 @@
+{
+  "result": [
+    {
+      "name": "一个名字挺长的分组",
+      "creationTime": "2017-05-07T15:41:26Z",
+      "id": 1
+    },
+    {
+      "name": "细胞壁1",
+      "creationTime": "2017-05-07T15:41:26Z",
+      "id": 2
+    },
+    {
+      "name": "细胞壁1",
+      "creationTime": "2017-05-07T15:41:26Z",
+      "id": 3
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

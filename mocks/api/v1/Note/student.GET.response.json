@@ -1,0 +1,79 @@
+{
+  "result": {
+    "displayCount": 1,
+    "totalCount": 15,
+    "items": [
+      {
+        "content": "笔记内容",
+        "creationTime": "2017-05-07T16:18:15",
+        "isCollection": false,
+        "isLike": false,
+        "likeCount": 0,
+        "deck": {
+          "name": "课时1",
+          "Course": {
+            "name": "医学治疗",
+            "id": 2
+          },
+          "id": 1
+        },
+        "author": {
+          "name": "admin",
+          "avatar": "/image/school/5ex.png",
+          "isTeacher": false,
+          "id": 2
+        },
+        "id": 1
+      },
+      {
+        "content": "笔记内容",
+        "creationTime": "2017-05-07T16:18:15",
+        "isCollection": false,
+        "isLike": false,
+        "likeCount": 0,
+        "deck": {
+          "name": "课时1",
+          "Course": {
+            "name": "医学治疗",
+            "id": 2
+          },
+          "id": 1
+        },
+        "author": {
+          "name": "admin",
+          "avatar": "/image/school/5ex.png",
+          "isTeacher": false,
+          "id": 2
+        },
+        "id": 1
+      },
+      {
+        "content": "笔记内容",
+        "creationTime": "2017-05-07T16:18:15",
+        "isCollection": true,
+        "isLike": true,
+        "likeCount": 1,
+        "deck": {
+          "name": "课时1",
+          "Course": {
+            "name": "医学治疗",
+            "id": 2
+          },
+          "id": 1
+        },
+        "author": {
+          "name": "admin",
+          "avatar": "/image/school/5ex.png",
+          "isTeacher": false,
+          "id": 2
+        },
+        "id": 1
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

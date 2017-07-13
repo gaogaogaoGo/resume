@@ -1,0 +1,40 @@
+{
+  "result": {
+    "homework": {
+      "name": "题1",
+      "expiryDate": "2017-05-11T23:56:08Z",
+      "id": 1
+    },
+    "score": 0,
+    "questions": [
+      {
+        "submitAnswer": "我觉的这道题出的挺好，可惜我不会",
+        "question": {
+          "title": "111用解剖学专业术语分析心血管系统的发生",
+          "type": "Subjective",
+          "options": [],
+          "answer": "111心血管系统的发生……，心血管系统的发生……",
+          "id": 1
+        },
+        "id": 12
+      },
+       {
+        "submitAnswer": "2222我觉的这道题出的挺好，可惜我不会",
+        "question": {
+          "title": "2222用解剖学专业术语分析心血管系统的发生",
+          "type": "Subjective",
+          "options": [],
+          "answer": "222心血管系统的发生……，心血管系统的发生……",
+          "id": 2
+        },
+        "id": 13
+      }
+    ],
+    "id": 1
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

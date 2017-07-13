@@ -1,0 +1,44 @@
+
+// method:get
+// url：/api/v1/Student/active?input.schoolId=1&input.count=6
+// 确认时间：17-5-12
+
+{
+  "result": [
+    {
+      "name": "印度阿三",
+      "avatar": "/image/school/5ex.png",
+      "points": 33,
+      "id": 2
+    },
+    {
+      "name": "印度阿四",
+      "avatar": "/image/school/5ex.png",
+      "points": 22,
+      "id": 3
+    },
+    {
+      "name": "印度阿五",
+      "avatar": "/image/school/5ex.png",
+      "points": 22,
+      "id": 4
+    },
+    {
+      "name": "印度阿六",
+      "avatar": "/image/school/5ex.png",
+      "points": 22,
+      "id": 5
+    },
+    {
+      "name": "印度阿七",
+      "avatar": "/image/school/5ex.png",
+      "points": 22,
+      "id": 6
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

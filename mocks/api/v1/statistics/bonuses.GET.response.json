@@ -1,0 +1,32 @@
+{
+  "result": {
+    "bonuses": [
+      {
+        "points":20,
+        "times":2,
+        "type":"LogIn"
+      },
+      {
+        "points":20,
+        "times":2,
+        "type":"SignIn"
+      },
+      {
+        "points":20,
+        "times":2,
+        "type":"Course"
+      },
+      {
+        "points":20,
+        "times":2,
+        "type":"Homework"
+      }
+    ],
+    "total":50
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

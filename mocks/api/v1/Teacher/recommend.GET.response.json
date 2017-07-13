@@ -1,0 +1,31 @@
+//method:get
+//url：/api/v1/Teacher/recommend?input.schoolId=1&input.count=6
+//确认时间：17-5-12
+{
+  "result": [
+    {
+      "name": "老师1",
+      "avatar": "/image/school/5ex.png",
+      "professionalTitles": "职称",
+      "id": 1
+    },
+    {
+      "name": "老师2",
+      "avatar": "/image/school/5ex.png",
+      "professionalTitles": "职称",
+      "id": 2
+    },
+    {
+      "name": "老师3",
+      "avatar": "/image/school/5ex.png",
+      "professionalTitles": "职称",
+      "id": 3
+    }
+  ],
+  "totalCount": 20,
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

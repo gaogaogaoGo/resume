@@ -1,0 +1,60 @@
+{
+  "result": [
+    {
+      "name": "上海医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 1
+    },
+    {
+      "name": "北京医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 2
+    },
+    {
+      "name": "济南医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 3
+    },
+    {
+      "name": "吉林医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 4
+    },
+    {
+      "name": "南京医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 5
+    },
+    {
+      "name": "深圳医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 6
+    },
+    {
+      "name": "哈尔滨医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 7
+    },
+    {
+      "name": "沈阳医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 8
+    },
+    {
+      "name": "沈阳医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 9
+    },
+    {
+      "name": "沈阳医科大学",
+      "icon": "../../../image/platform/home/logos.jpg",
+      "id": 10
+    }
+  ],
+  "totalCount": 20,
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

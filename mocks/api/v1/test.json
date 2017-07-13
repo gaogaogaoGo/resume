@@ -1,0 +1,30 @@
+{
+  "result": {
+    "displayCount": 1,
+    "totalCount": 1,
+    "items": [
+      {
+        "publishStatus": "Published",
+        "publishTime": null,
+        "title": "公告1",
+        "content": "公告1",
+        "lastModificationTime": "2017-06-11T15:22:58Z",
+        "author": {
+          "nickName": null,
+          "name": "admin",
+          "userName": "admin1",
+          "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+          "isTeacher": false,
+          "roleNames": "Administrator",
+          "id": 2
+        },
+        "id": 1
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

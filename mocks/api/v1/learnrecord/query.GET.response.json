@@ -1,0 +1,21 @@
+{
+  "result": {
+    "displayCount": 1,
+    "totalCount": 1,
+    "items": [
+      {
+        "name": "公共课程",
+        "thumbnail": "https://imgsa.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=ad65e092432309f7f362a54013676796/9358d109b3de9c8233770c896981800a19d843a2.jpg",
+        "deckTotal": 1,
+        "learned": 1,
+        "lastLearnTime": "2017-05-12T14:32:24Z",
+        "id": 1
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

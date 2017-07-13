@@ -1,0 +1,82 @@
+{
+  "result":
+    {
+      "publicCourseCount": 1324,
+      "originalCourseCount":1211,
+      "categories":[
+        {
+          "id": 1,
+          "displayName": "组织学1",
+          "parentId": null,
+          "courseCount": 123
+        },
+        {
+          "id": 2,
+          "displayName": "组织学2",
+          "parentId": null,
+          "courseCount": 123
+        },
+        {
+          "id": 3,
+          "displayName": "组织学3",
+          "parentId": null,
+          "courseCount": 123
+        },{
+          "id": 4,
+          "displayName": "组织学4",
+          "parentId": null,
+          "courseCount": 123
+        },{
+          "id": 5,
+          "displayName": "组织学5",
+          "parentId": null,
+          "courseCount": 123
+        },
+        {
+          "id": 6,
+          "displayName": "组织学6",
+          "parentId": null,
+          "courseCount": 123
+        },
+        {
+          "id": 7,
+          "displayName": "组织学7",
+          "parentId": null,
+          "courseCount": 123
+        }
+
+
+
+
+
+      ],
+      "tags": [
+        {
+          "name": "请求请求",
+          "id": 55
+        },
+        {
+          "name": "问问",
+          "id": 44
+        },
+        {
+          "name": "恩恩",
+          "id": 33
+        },
+        {
+          "name": "人人",
+          "id": 22
+        },
+        {
+          "name": "天天",
+          "id": 11
+        }
+      ]
+    },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}
+

@@ -1,0 +1,50 @@
+//获取作业信息（包含提交记录）
+{
+  "result": {
+    "deck": {
+      "name": "课件1",
+      "course": {
+        "id": 1,
+        "name": "课程"
+      },
+      "id": 2
+    },
+    "homeworks": [
+      {
+        "name": "课件作业1",
+        "expiryDate": "2017-05-11T15:09:40",
+        "submitRecords": [{
+          "submitTime": "2017-05-07T17:29:40",
+          "id": 1
+        }],       
+        "id": 1
+      },
+      {
+        "name": "课件作业12",
+        "expiryDate": "2017-05-08T15:09:40",
+        "submitRecords": [{
+          "submitTime": "2017-05-03T17:29:40",
+          "id": 1
+        }],       
+        "id": 3
+      },
+      {
+        "name": "课件作业2",
+        "expiryDate": "2017-05-13T15:09:40",
+        "submitRecords": [],       
+        "id": 5
+      },
+      {
+        "name": "课件作业3",
+        "expiryDate": "2017-05-07T15:09:40",
+        "submitRecords": {},       
+        "id": 6
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

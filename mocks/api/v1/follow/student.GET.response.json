@@ -1,0 +1,121 @@
+{
+  "result": {
+    "displayCount": 10,
+    "totalCount": 20,
+    "items": [
+      {
+        "name": "张一山11111",
+        "avatar": "/image/school/5ex.png",
+        "id": 2,
+        "isTeacher": false,
+        "fans": 111,
+        "follows": 222,
+        "isEachother":true,
+        "courses": [
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "11111111111111",
+            "id": 1
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "222222222222222",
+            "id": 2
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "333333333333333",
+            "id": 3
+          }
+
+        ]
+      },
+      {
+        "name": "张一山stu",
+        "avatar": "/image/school/5ex.png",
+        "id": 3,
+        "isTeacher": true,
+        "fans": 111,
+        "follows": 222,
+        "isEachother":true,
+        "courses": [
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "11111111111111",
+            "id": 1
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "222222222222222",
+            "id": 2
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "333333333333333",
+            "id": 3
+          }
+
+        ]
+      },
+      {
+        "name": "张一山stu",
+        "avatar": "/image/school/5ex.png",
+        "id": 4,
+        "isTeacher": true,
+        "fans": 111,
+        "follows": 222,
+        "isEachother":true,
+        "courses": [
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "11111111111111",
+            "id": 1
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "222222222222222",
+            "id": 2
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "333333333333333",
+            "id": 3
+          }
+
+        ]
+      },
+      {
+        "name": "张一山stu",
+        "avatar": "/image/school/5ex.png",
+        "id": 5,
+        "isTeacher": true,
+        "fans": 111,
+        "follows": 222,
+        "isEachother":false,
+        "courses": [
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "11111111111111",
+            "id": 1
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字很多字",
+            "id": 2
+          },
+          {
+            "thumbnail": "/image/school/nr1.jpg",
+            "name": "333333333333333",
+            "id": 3
+          }
+
+        ]
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

@@ -1,0 +1,32 @@
+{
+  "result": [
+    {
+      "title": "用解剖学专业术语分析心血管系统的发生",
+      "type": "subjective",
+      "options": [],
+      "point": 2,
+      "id": 1
+    },
+    {
+      "title": "第一次卫生革命的主要目标是",
+      "type": "single",
+      "options": [
+        {
+          "title": "A",
+          "content": "以慢性非传染性疾病的控制为目标",
+          "id": 1
+        },
+    {
+      "title": "B",
+      "content": "以提高诊断技术为目标",
+      "id": 2
+    }],
+    "point": 5,
+    "id": 2
+  }],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

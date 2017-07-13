@@ -1,0 +1,21 @@
+{
+  "result": [
+    {
+      "displayName": "组织学",
+      "parentId": null,
+      "courseCount": 20,
+      "id": 1
+    },
+    {
+      "displayName": "大体病理",
+      "parentId": null,
+      "courseCount": 7,
+      "id": 3
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

@@ -1,0 +1,1 @@
+import cxfan from '../resume';

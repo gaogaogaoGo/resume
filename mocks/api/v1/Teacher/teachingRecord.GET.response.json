@@ -1,0 +1,34 @@
+// method: get
+// url: api/v1/Teacher/recommend
+{
+  "result": [
+    {
+      "id": 1,
+      "title": "初级VIP 2017康复医学治疗技术资格考试培训康复医学网校",
+      "thumbnail": "/image/platform/course/nr1.jpg",
+      "total": 14,
+      "learned": 6,
+      "learnTime": "2017-04-26T16:12:02Z"
+    },
+    {
+      "id": 2,
+      "title": "初级VIP 2017康复医学治疗技术资格考试培训康复医学网校",
+      "thumbnail": "/image/platform/course/nr1.jpg",
+      "total": 14,
+      "learned": 2,
+      "learnTime": "2017-04-26T16:12:02Z"
+    },
+    {
+      "id": 3,
+      "title": "初级VIP 2017康复医学治疗技术资格考试培训康复医学网校",
+      "thumbnail": "/image/platform/course/nr1.jpg",
+      "total": 14,
+      "learned": 9,
+      "learnTime": "2017-04-26T16:12:02Z"
+    }
+  ],
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

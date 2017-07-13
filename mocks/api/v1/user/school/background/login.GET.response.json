@@ -1,0 +1,133 @@
+{
+  "result": {
+    "displayCount": 10,
+    "totalCount": 598,
+    "items": [
+      {
+        "name": "admin",
+        "userName": "admin1",
+        "phoneNumber": "13800138002",
+        "emailAddress": "admin@defaulttenant.com",
+        "staffId": null,
+        "roleNames": "Administrator",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T02:12:45Z",
+        "id": 2
+      },
+      {
+        "name": "小明",
+        "userName": "xiaoming",
+        "phoneNumber": "13465315524",
+        "emailAddress": "a@a.com",
+        "staffId": null,
+        "roleNames": "Student",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T02:06:27Z",
+        "id": 3
+      },
+      {
+        "name": "小明",
+        "userName": "xiaoming",
+        "phoneNumber": "13465315524",
+        "emailAddress": "a@a.com",
+        "staffId": null,
+        "roleNames": "Student",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T02:06:26Z",
+        "id": 3
+      },
+      {
+        "name": "小明",
+        "userName": "xiaoming",
+        "phoneNumber": "13465315524",
+        "emailAddress": "a@a.com",
+        "staffId": null,
+        "roleNames": "Student",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T02:06:26Z",
+        "id": 3
+      },
+      {
+        "name": "习大大",
+        "userName": "xijinping",
+        "phoneNumber": "13800138004",
+        "emailAddress": "xi@china.cn",
+        "staffId": null,
+        "roleNames": "Teacher",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T01:45:30Z",
+        "id": 4
+      },
+      {
+        "name": "小明",
+        "userName": "xiaoming",
+        "phoneNumber": "13465315524",
+        "emailAddress": "a@a.com",
+        "staffId": null,
+        "roleNames": "Student",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T01:43:28Z",
+        "id": 3
+      },
+      {
+        "name": "习大大",
+        "userName": "xijinping",
+        "phoneNumber": "13800138004",
+        "emailAddress": "xi@china.cn",
+        "staffId": null,
+        "roleNames": "Teacher",
+        "loginIp": "10.10.10.162",
+        "loginCity": null,
+        "loginTime": "2017-06-09T01:40:08Z",
+        "id": 4
+      },
+      {
+        "name": "小明",
+        "userName": "xiaoming",
+        "phoneNumber": "13465315524",
+        "emailAddress": "a@a.com",
+        "staffId": null,
+        "roleNames": "Student",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T01:39:59Z",
+        "id": 3
+      },
+      {
+        "name": "习大大",
+        "userName": "xijinping",
+        "phoneNumber": "13800138004",
+        "emailAddress": "xi@china.cn",
+        "staffId": null,
+        "roleNames": "Teacher",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T01:29:18Z",
+        "id": 4
+      },
+      {
+        "name": "习大大",
+        "userName": "xijinping",
+        "phoneNumber": "13800138004",
+        "emailAddress": "xi@china.cn",
+        "staffId": null,
+        "roleNames": "Teacher",
+        "loginIp": "10.10.10.119",
+        "loginCity": null,
+        "loginTime": "2017-06-09T01:29:17Z",
+        "id": 4
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

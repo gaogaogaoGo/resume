@@ -1,0 +1,53 @@
+{
+  "result": {
+    "items":[{
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "examName": "第一课时自测题",
+      "level": "E",
+      "score": 20
+    },{
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "examName": "第一课时自测题",
+      "level": "E",
+      "score": 20
+    },{
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "examName": "第一课时自测题",
+      "level": "E",
+      "score": 20
+    },{
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "examName": "第一课时自测题",
+      "level": "E",
+      "score": 20
+    },{
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "examName": "第一课时自测题",
+      "level": "E",
+      "score": 20
+    },{
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "examName": "第一课时自测题",
+      "level": "E",
+      "score": 20
+    },{
+      "courseName": "运动人体科学考前冲刺课程",
+      "deckName": "第一课时",
+      "examName": "第一课时自测题",
+      "level": "E",
+      "score": 20
+    }]
+  },
+
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

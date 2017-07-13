@@ -1,0 +1,18 @@
+{
+  "result": {
+    "content":"这节对ppt中的动画建立起初步的印象，以前在制作PPT的动画时，没有没有什么章法，看到什么元素觉得想加就加，怎么加，加什么都没有技巧可言，现在不同了...",
+    "id":1,
+    "deck":{
+      "name":"课时5",
+      "course":{
+        "name":"职场小白必学的PPtT动画技巧"
+      }
+    }
+
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

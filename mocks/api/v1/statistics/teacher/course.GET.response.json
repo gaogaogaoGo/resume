@@ -1,0 +1,22 @@
+{
+  "result": [
+    {
+      "name": "2015",
+      "value": "100"
+    },
+    {
+      "name": "2016",
+      "value": "300"
+    },
+    {
+      "name": "2017",
+      "value": "170"
+    }
+  ],
+
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

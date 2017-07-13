@@ -1,0 +1,51 @@
+{
+  "result": {
+    "chapters": [
+      {
+        "displayName": "上皮组织",
+        "specimenCount": 0,
+        "id": 5
+      },
+      {
+        "displayName": "结缔组织",
+        "specimenCount": 0,
+        "id": 6
+      },
+      {
+        "displayName": "血液",
+        "specimenCount": 0,
+        "id": 7
+      }
+
+    ],
+    "sections": [
+      {
+        "displayName": "单层上皮",
+        "specimenCount": 0,
+        "id": 8
+      },
+      {
+        "displayName": "复层上皮",
+        "specimenCount": 0,
+        "id": 9
+      }
+    ],
+    "items": [
+      {
+        "displayName": "单层扁平上皮",
+        "specimenCount": 0,
+        "id": 10
+      },
+      {
+        "displayName": "单层立方上皮",
+        "specimenCount": 0,
+        "id": 11
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

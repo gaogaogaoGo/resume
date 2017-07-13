@@ -1,0 +1,16 @@
+{
+  "result": {
+    "name": "北京大学",
+    "description": "北京大学创办于1898年，初名京师大学堂，是中国第一所国立综合性大学，也是当时中国最高教育行政机关。辛亥革命后，于1912年改为现名。 学校为教育部直属全国重点大学，国家“211工程”、“985工程”建设大学、C9联盟，以及东亚研究型大学协会、国际研究型大学联盟、环太平洋大学联盟、东亚四大学论坛的重要成员。",
+    "icon": "http://imgsize.ph.126.net/?enlarge=true&imgurl=http://nos.netease.com/edu-image/F78C41FA9703708FB193137A688F7195.png?imageView&thumbnail=150y150&quality=100_150x150x1x95.png",
+    "code": "10001",
+    "courseCount": 1,
+    "subscription": 0,
+    "id": 1
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

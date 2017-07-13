@@ -1,0 +1,19 @@
+{
+  "result": {
+    "remarkName": "325",
+    "name": "admin",
+    "userName": "admin",
+    "studentNo": "222",
+    "sex": "male",
+    "phoneNumber": "13800138001",
+    "emailAddress": "admin@dh.com",
+    "groupId": null,
+    "isInGroup": false,
+    "id": 1
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

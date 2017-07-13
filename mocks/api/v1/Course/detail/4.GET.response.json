@@ -1,0 +1,44 @@
+{
+  "result": {
+    "name": "公共课程",
+    "description": "公共课程描述",
+    "totalDecks": 20,
+    "currentDecks": 10,
+    "goal": "课程目标",
+    "courseCategory": {
+      "code": "00001",
+      "displayName": "组织学",
+      "description": "组织学",
+      "icon": "",
+      "id": 1
+    },
+    "teacher": {
+      "name": "李aa",
+      "avatar": "https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/9966e4b8a8e8bf9fe4ba91e5bcbae4b8a8ba22",
+      "professionalTitles": "教授",
+      "signature": "个性签名",
+      "recommendOrder": 0,
+      "school": {
+        "name": "清华大学",
+        "description": "山东蓝翔高级技工学校（英语：Shandong Lanxiang Senior Technical school），简称蓝翔技校，创办于1984年10月；学校设有汽修、美容美发、厨师、电脑、数控、电焊、挖掘机等8个专业、60余个工种[1]  ，能培养初、中、高级技工和预备技师，年办学规模达3万余人，累计已为社会培养各类技能人才40余万人。",
+        "icon": "http://aaaaaa",
+        "code": "00001",
+        "recommendOrder": 0,
+        "id": 1
+      },
+      "id": 0
+    },
+    "tags": [
+      {
+        "name": "好",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

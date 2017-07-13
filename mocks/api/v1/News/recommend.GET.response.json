@@ -1,0 +1,44 @@
+
+//method:get
+//url：/api/v1/News/recommend?input.schoolId=1&input.count=5
+//确认时间：17-5-12
+
+{
+  "result": [
+    {
+      "title": "巴菲特股东大会实录（附全文）：股神承认自己看走眼，错过了谷歌和亚马逊",
+      "creationTime": "2017-05-07T15:45:47",
+      "thumbnail": "https://pic.36krcnd.com/avatar/201705/07055938/k386dig7xzf2c7pd.jpeg!feature",
+      "id": 1
+    },
+    {
+      "title": "卓伟分家回应上亿封口费？起底“八卦江湖”资本情仇",
+      "creationTime": "2017-05-07T15:42:46Z",
+      "thumbnail": "https://imgsa.baidu.com/news/q%3D100/sign=712e0b4a5ffbb2fb322b5c127f4b2043/9213b07eca8065382417a7049ddda144ad348223.jpg",
+      "id": 2
+    },
+    {
+      "title": "巴菲特股东大会实录（附全文）：股神承认自己看走眼，错过了谷歌和亚马逊",
+      "creationTime": "2017-05-07T15:45:47",
+      "thumbnail": "https://pic.36krcnd.com/avatar/201705/07055938/k386dig7xzf2c7pd.jpeg!feature",
+      "id": 3
+    },
+    {
+      "title": "卓伟分家回应上亿封口费？起底“八卦江湖”资本情仇",
+      "creationTime": "2017-05-07T15:42:46Z",
+      "thumbnail": "https://imgsa.baidu.com/news/q%3D100/sign=712e0b4a5ffbb2fb322b5c127f4b2043/9213b07eca8065382417a7049ddda144ad348223.jpg",
+      "id": 4
+    },
+    {
+      "title": "巴菲特股东大会实录（附全文）：股神承认自己看走眼，错过了谷歌和亚马逊",
+      "creationTime": "2017-05-07T15:45:47",
+      "thumbnail": "https://pic.36krcnd.com/avatar/201705/07055938/k386dig7xzf2c7pd.jpeg!feature",
+      "id": 5
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

@@ -1,0 +1,17 @@
+{
+  "result": [
+    {
+      "name": "运动人体科",
+      "id": 6
+    },
+    {
+      "name": "针灸学",
+      "id": 14
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

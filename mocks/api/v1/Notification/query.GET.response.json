@@ -1,0 +1,193 @@
+{
+  "result": {
+    "unreadCount": 4,
+    "totalCount": 4,
+    "items": [
+      {
+        "tenantId": 1,
+        "userId": 4,
+        "state": 0,
+        "notification": {
+          "tenantId": 1,
+          "notificationName": "App.NewFaqsQuestion",
+          "data": {
+            "author": {
+              "school": {
+                "name": "北京大学",
+                "id": 1
+              },
+              "nickName": "w",
+              "name": "小明",
+              "userName": "xiaoming",
+              "avatar": "http://10.10.10.27:8080/Public/avatar/3/20170525093525.jpg",
+              "roleNames": null,
+              "id": 3
+            },
+            "course": {
+              "name": "运动人体科学考前冲刺课程",
+              "id": 6
+            },
+            "deck": {
+              "name": "第一课时",
+              "id": 1
+            },
+            "question": {
+              "title": "test 111111幅度萨芬萨",
+              "content": "进来撒好了jf 了大师傅立刻洒家  就分厘卡撒酒疯 ",
+              "id": "53fc21d6-d503-4db5-8a0d-7055338bbc82"
+            },
+            "type": "Crocuta.Core.Notifications.Data.FaqsQuestionNotificationData",
+            "properties": {}
+          },
+          "entityType": null,
+          "entityTypeName": null,
+          "entityId": null,
+          "severity": 0,
+          "creationTime": "2017-06-02T10:52:18Z",
+          "id": "b106b354-f058-46de-a1bf-331bd7958452"
+        },
+        "id": "c948f95d-cffd-4416-becb-5e0136881f76"
+      },
+      {
+        "tenantId": 1,
+        "userId": 4,
+        "state": 0,
+        "notification": {
+          "tenantId": 1,
+          "notificationName": "App.NewFaqsQuestion",
+          "data": {
+            "author": {
+              "school": {
+                "name": "北京大学",
+                "id": 1
+              },
+              "nickName": "w",
+              "name": "小明",
+              "userName": "xiaoming",
+              "avatar": "http://10.10.10.27:8080/Public/avatar/3/20170525093525.jpg",
+              "roleNames": null,
+              "id": 3
+            },
+            "course": {
+              "name": "运动人体科学考前冲刺课程",
+              "id": 6
+            },
+            "deck": {
+              "name": "第一课时",
+              "id": 1
+            },
+            "question": {
+              "title": "test 111111",
+              "content": "进来撒好了jf 了大师傅立刻洒家  就分厘卡撒酒疯 ",
+              "id": "ab7403e1-045b-4ac0-bd32-dc7e0a8d2f86"
+            },
+            "type": "Crocuta.Core.Notifications.Data.FaqsQuestionNotificationData",
+            "properties": {}
+          },
+          "entityType": null,
+          "entityTypeName": null,
+          "entityId": null,
+          "severity": 0,
+          "creationTime": "2017-06-02T10:52:06Z",
+          "id": "c0cfa983-9cc0-4ab5-a32d-d0cf75582c62"
+        },
+        "id": "d998a787-e254-4e8f-80d0-704942ca337c"
+      },
+      {
+        "tenantId": 1,
+        "userId": 4,
+        "state": 0,
+        "notification": {
+          "tenantId": 1,
+          "notificationName": "App.NewFaqsQuestion",
+          "data": {
+            "author": {
+              "school": {
+                "name": "北京大学",
+                "id": 1
+              },
+              "nickName": "w",
+              "name": "小明",
+              "userName": "xiaoming",
+              "avatar": "http://10.10.10.27:8080/Public/avatar/3/20170525093525.jpg",
+              "roleNames": null,
+              "id": 3
+            },
+            "course": {
+              "name": "运动人体科学考前冲刺课程",
+              "id": 6
+            },
+            "deck": {
+              "name": "第一课时",
+              "id": 1
+            },
+            "question": {
+              "title": "test 111111",
+              "content": "1111111111111111111",
+              "id": "98f71f8d-d17b-4e72-b945-2582cf4053d5"
+            },
+            "type": "Crocuta.Core.Notifications.Data.FaqsQuestionNotificationData",
+            "properties": {}
+          },
+          "entityType": null,
+          "entityTypeName": null,
+          "entityId": null,
+          "severity": 0,
+          "creationTime": "2017-06-02T10:51:46Z",
+          "id": "f11502f2-eb00-4479-8489-ce9fd7df92e8"
+        },
+        "id": "59e94a13-7aa4-4705-a0ba-3f7d664175ea"
+      },
+      {
+        "tenantId": 1,
+        "userId": 4,
+        "state": 0,
+        "notification": {
+          "tenantId": 1,
+          "notificationName": "App.NewFaqsQuestion",
+          "data": {
+            "author": {
+              "school": {
+                "name": "北京大学",
+                "id": 1
+              },
+              "nickName": "w",
+              "name": "小明",
+              "userName": "xiaoming",
+              "avatar": "http://10.10.10.27:8080/Public/avatar/3/20170525093525.jpg",
+              "roleNames": null,
+              "id": 3
+            },
+            "course": {
+              "name": "运动人体科学考前冲刺课程",
+              "id": 6
+            },
+            "deck": {
+              "name": "第一课时",
+              "id": 1
+            },
+            "question": {
+              "title": "test description",
+              "content": "fdfdsdffdsfdfdfddfdsffdsfdas",
+              "id": "ec7aca4d-897b-4c59-bcc1-1ea614f6fd38"
+            },
+            "type": "Crocuta.Core.Notifications.Data.FaqsQuestionNotificationData",
+            "properties": {}
+          },
+          "entityType": null,
+          "entityTypeName": null,
+          "entityId": null,
+          "severity": 0,
+          "creationTime": "2017-06-02T10:51:26Z",
+          "id": "77181503-2ab2-4c5c-91d7-8e075f4f3c3b"
+        },
+        "id": "9f5bc0ed-f75f-44ef-97f9-aac2eaeff5e9"
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

@@ -1,0 +1,33 @@
+{
+  "result": {
+    "imageCount": 1,
+    "videoCount": 2,
+    "displayCount": 3,
+    "totalCount": 3,
+    "items": [
+      {
+        "name": "1.1.1 选用符合语义的标签.mp4",
+        "thumbnail": "/image/school/nr1.jpg",
+        "url": "http://10.10.10.27:8080/Public/media/4/20170523183926.mp4",
+        "id": "d3dffe19-2036-497a-9597-9d01c4c4cd89"
+      },
+      {
+        "name": "1111.jpg",
+        "thumbnail": "/image/school/nr1.jpg",
+        "url": "http://10.10.10.27:8080/Public/media/4/20170523173150.jpg",
+        "id": "837499ab-6cee-49d8-8314-f7b0ccc2f2aa"
+      },
+      {
+        "name": "Path-1.mp4",
+        "thumbnail": "/image/school/nr1.jpg",
+        "url": "http://10.10.10.189:8080/Public/media/4/20170523085521.mp4",
+        "id": "0fc9a9a6-13d5-452b-8481-c5cd16a1f380"
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

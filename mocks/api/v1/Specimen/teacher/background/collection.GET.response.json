@@ -1,0 +1,83 @@
+{
+  "result": {
+    "displayCount": 10,
+    "totalCount": 16,
+    "items": [
+      {
+        "displayName": "汗腺导管上皮（皮肤）",
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 2
+      },
+      {
+        "displayName": "间皮（腹膜铺片）",
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-20/43030506-file_1495266610035_16652.png",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 4
+      },
+      {
+        "displayName": "细胞壁",
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 1
+      },
+      {
+        "displayName": "肺泡壁",
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-20/84132415-file_1495266438074_54a8.png",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 3
+      },
+      {
+        "displayName": "膀胱黏膜上皮（膀胱排空态）",
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-20/65356417-file_1495266670155_5b29.png",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 5
+      },
+      {
+        "displayName": "食管黏膜上皮",
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 6
+      },
+      {
+        "displayName": "舌黏膜上皮",
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-20/65356417-file_1495266670155_5b29.png",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 7
+      },
+      {
+        "displayName": "小支气管黏膜上皮",
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-20/43030506-file_1495266610035_16652.png",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 8
+      },
+      {
+        "displayName": "间皮（阑尾）",
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 9
+      },
+      {
+        "displayName": "食管黏膜上皮",
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-20/65356417-file_1495266670155_5b29.png",
+        "browserCount": 0,
+        "school": "数字人云平台",
+        "id": 10
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

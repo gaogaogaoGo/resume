@@ -1,0 +1,37 @@
+{
+  "result": {
+    "displayCount": 3,
+    "totalCount": 3,
+    "items": [
+      {
+        "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+        "name": "admin_pku",
+        "learnTime": "2017-05-09T18:20:46Z",
+        "learned": 3,
+        "total": 6,
+        "id": 6
+      },
+      {
+        "avatar": "http://10.10.10.27:8080/Public/avatar/3/20170525093525.jpg",
+        "name": "小明",
+        "learnTime": "2017-05-07T18:20:46Z",
+        "learned": 1,
+        "total": 6,
+        "id": 3
+      },
+      {
+        "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170525093039.png",
+        "name": "习近平",
+        "learnTime": "2017-05-07T18:20:46Z",
+        "learned": 4,
+        "total": 6,
+        "id": 4
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

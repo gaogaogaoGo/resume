@@ -1,0 +1,45 @@
+{
+  "result": {
+    "displayCount": 1,
+    "totalCount": 1,
+    "items": [
+      {
+        "name": "习大大",
+        "userName": "xijinping",
+        "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170527135832.jpg",
+        "nickName": "wobushuo",
+        "sex": "male",
+        "phoneNumber": "13800138004",
+        "emailAddress": "xi@china.cn",
+        "staffId": null,
+        "isRecommend": false,
+        "recommendTime": null,
+        "lastLoginTime": "2017-06-08T07:57:30Z",
+        "lastLoginIp": "10.10.10.162",
+        "lastLoginCity": null,
+        "id": 4
+      },
+      {
+        "name": "习大大2",
+        "userName": "xijinping",
+        "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170527135832.jpg",
+        "nickName": "wobushuo",
+        "sex": "female",
+        "phoneNumber": "13800138004",
+        "emailAddress": "xi@china.cn",
+        "staffId": null,
+        "isRecommend": true,
+        "recommendTime": null,
+        "lastLoginTime": "2017-06-08T07:57:30Z",
+        "lastLoginIp": "10.10.10.162",
+        "lastLoginCity": null,
+        "id": 3
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

@@ -1,0 +1,73 @@
+{
+  "result": [
+    {
+      "content": "这是回复",
+      "parent": {
+        "creationTime": "2017-05-04T15:49:29Z",
+        "content": "这是问题",
+        "author": {
+          "name": "admin",
+          "avatar": "/image/school/02.png",
+          "isTeacher": false,
+          "id": 2
+        },
+        "id": 1,
+        "deck": {
+          "name": "课时1",
+          "course": {
+            "name": "公共课程",
+            "thumbnail": "https://imgsa.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=ad65e092432309f7f362a54013676796/9358d109b3de9c8233770c896981800a19d843a2.jpg",
+            "id": 1
+          },
+          "id": 1
+        }
+      },
+      "creationTime": "2017-05-04T15:50:08Z",
+
+      "author": {
+        "name": "admin",
+        "avatar": "/image/school/02.png",
+        "isTeacher": false,
+        "id": 1
+      },
+      "id": 2
+    },
+    {
+      "content": "这是回复",
+      "parent": {
+        "creationTime": "2017-05-04T15:49:29Z",
+        "content": "这是问题",
+        "author": {
+          "name": "admin",
+          "avatar": "/image/school/02.png",
+          "isTeacher": false,
+          "id": 2
+        },
+        "id": 1,
+        "deck": {
+          "name": "课时1",
+          "course": {
+            "name": "公共课程",
+            "thumbnail": "https://imgsa.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=ad65e092432309f7f362a54013676796/9358d109b3de9c8233770c896981800a19d843a2.jpg",
+            "id": 1
+          },
+          "id": 1
+        }
+      },
+      "creationTime": "2017-05-04T15:50:08Z",
+
+      "author": {
+        "name": "admin",
+        "avatar": "/image/school/02.png",
+        "isTeacher": false,
+        "id": 1
+      },
+      "id": 2
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

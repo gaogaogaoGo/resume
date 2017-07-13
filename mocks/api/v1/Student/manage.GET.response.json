@@ -1,0 +1,44 @@
+{
+  "result": {
+    "totalCount": 20,
+    "items": [
+      {
+        "userName": "细胞壁1",
+        "name": "细胞壁1",
+        "studentNo": "40",
+        "phoneNumber": "109252",
+        "emailAddress": "72704@e",
+        "id": 1
+      },
+      {
+        "userName": "细胞壁2",
+        "name": "细胞壁2",
+        "studentNo": "40",
+        "phoneNumber": "109252",
+        "emailAddress": "72704@e",
+        "id": 2
+      },
+      {
+        "userName": "细胞壁3",
+        "name": "细胞壁3",
+        "studentNo": "40",
+        "phoneNumber": "109252",
+        "emailAddress": "72704@e",
+        "id": 3
+      },
+      {
+        "userName": "细胞壁4",
+        "name": "细胞壁4",
+        "studentNo": "40",
+        "phoneNumber": "109252",
+        "emailAddress": "72704@e",
+        "id": 4
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

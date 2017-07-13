@@ -1,0 +1,32 @@
+{
+  "result": {
+    "name": "李仪祉",
+    "avatar": "/image/school/5ex.png",
+    "professionalTitles": "生物解剖学，医学院教授",
+    "signature": null,
+    "direction": "病理学、组织学",
+    "teachStyle": "轻松诙谐、实例讲解，在授课中更能够通过自身的一些经历将知识点场景化；深得学生喜爱。",
+    "introduction": "现任中国培训师大联盟（CTA）总裁，人才发展学院院长，首席导师； 在教练技术领域、培训师培训与认证领域、引导技术领域、管理者领导力发展等四大领域，拥有中华人民共和国国家版权局",
+    "follows": 11,
+    "fans": 111,
+    "courses": 1,
+    "school": {
+      "name": "复旦大学",
+      "description": null,
+      "icon": null,
+      "code": null,
+      "recommendOrder": 0,
+      "id": 1
+    },
+    "isFollowed": false,
+    "id": 2,
+    "points":5800,
+    "signin":67,
+    "isSignin":false
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

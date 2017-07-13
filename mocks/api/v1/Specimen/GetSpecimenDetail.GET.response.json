@@ -1,0 +1,33 @@
+{
+  "result": {
+    "sign": "QTY2NkMxOENDQjg1RjAxRTU4NkYwQzcyMjQ2NzRCNUQ4QjA4NDk0NmE9MSZjPTE0OTQ3NDE1NzEuNjQ4ODQmcz05NzkyYjg4Ni1kYzAwLTRhNzctYTQ5NC1mYzE5MzI4ZjNjYmImZT0xNDk0NzQ1MTcxLjY0ODg0JmY9",
+    "creationTime": "2017-03-21T15:15:43",
+    "displayName": "肺泡壁",
+    "description": "目的：了解肺泡壁的单层扁平上皮。<br>材料与方法：<br>取狗的肺，先灌入Susa液，再将肺组织放入Susa液中继续固定，石蜡包埋，切片，HE染色。<br>肉眼观察：<br>为一小块海绵样组织，大部分是肺的呼吸部，其内有大小不等的腔隙，是肺内各级支气管或动、静脉的断面。<br>镜下观察：低倍镜、高倍镜结合观察。<br>肺泡为多边形或圆形薄壁囊泡，肺泡腔面衬有一层肺泡上皮细胞，相邻肺泡的上皮之间为薄的肺泡隔。<br>高倍镜下，肺泡上皮的Ⅰ型肺泡细胞，是一层单层扁平上皮，为构成肺泡壁的主要细胞。<br>",
+    "thumbnail": "http://115.29.97.231:8186/slice/slices/E9764C19-AEF9-4AB3-B401-8E06930328F8/thumbail",
+    "type": 1,
+    "imageCount": 1,
+    "zoom": 40,
+    "width": 102912,
+    "height": 72704,
+    "scale": 0.1626,
+    "browserCount": 87,
+    "url": "http://115.29.97.231:8186/slice/slices/E9764C19-AEF9-4AB3-B401-8E06930328F8",
+    "dyeing": "HE染色",
+    "from": "狗",
+    "annotations": [
+      {
+        "useTo": 1,
+        "data": "[{\"id\":null,\"guid\":\"f03256ea-a409-4677-b2d4-50d6c35458ab\",\"imageId\":856,\"name\":\"单层扁皮上皮细胞核\",\"description\":\"单层扁皮上皮细胞核\",\"imageIndex\":0,\"scale\":0.629961013793945,\"width\":2,\"type\":\"Remark\",\"region\":{\"x\":64999.94,\"y\":40852.15,\"width\":0,\"height\":0},\"fontUnderLine\":false,\"fontSize\":11,\"fontFamily\":\"Microsoft Sans Serif\",\"fontItalic\":false,\"fontBold\":false,\"visible\":true,\"color\":\"#0000ff\",\"measurement\":false,\"radius\":0,\"arcLength\":0,\"angle\":0,\"points\":[]},{\"id\":null,\"guid\":\"2b63e5a0-5e96-48bf-925b-f13fea91abe6\",\"imageId\":856,\"name\":\"请输入\",\"description\":\"请输入\",\"imageIndex\":0,\"scale\":0.793700993061066,\"width\":2,\"type\":\"Line\",\"region\":{\"x\":65121.5234,\"y\":40958.5664,\"width\":-68.0357361,\"height\":-66.77582},\"fontUnderLine\":false,\"fontSize\":11,\"fontFamily\":\"Microsoft Sans Serif\",\"fontItalic\":false,\"fontBold\":false,\"visible\":true,\"color\":\"#0000ff\",\"measurement\":false,\"radius\":0,\"arcLength\":0,\"angle\":0,\"points\":[]}]",
+        "id": 856
+      }
+    ],
+    "comments": [],
+    "id": 856
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

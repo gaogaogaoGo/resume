@@ -1,0 +1,30 @@
+{
+  "result": [
+    {
+      "displayName": "Guest",
+      "name": "Guest",
+      "creatorUser": "1",
+      "creationTime": "2017-05-07T14:28:37Z",
+      "id": 4
+    },
+    {
+      "displayName": "Student",
+      "name": "Student",
+      "creatorUser": null,
+      "creationTime": "2017-05-07T14:28:37Z",
+      "id": 5
+    },
+    {
+      "displayName": "Teacher",
+      "name": "Teacher",
+      "creatorUser": null,
+      "creationTime": "2017-05-07T14:28:37Z",
+      "id": 6
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

@@ -1,0 +1,13 @@
+{
+  "result":{
+  "showAnnouncement":false,
+  "showFollowNotice":true,
+  "showLikeNotice":true,
+  "showSysNotice":false
+  },
+  "targetUrl":null,
+  "success":true,
+  "error":null,
+  "unAuthorizedRequest":false,
+  "__dhp":true
+}

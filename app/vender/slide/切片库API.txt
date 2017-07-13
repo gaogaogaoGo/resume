@@ -1,0 +1,172 @@
+需要的插件及配置
+  \lib\jquery.cookie.js
+  \lib\jquery\jquery-2.2.3.js
+  \lib\colorpicker\js\farbtastic.js
+  \lib\colorpicker\css\farbtastic.css');
+  \lib\ui\jquery-ui.js
+  \lib\ui\jquery-ui.min.css
+  \js\slidePathology.min.js
+  \css\slidepath.css;
+
+SL.CreateViewer(viewerConfigJson);
+功能：创建切片对象
+参数：var viewer = SL.CreateViewer({
+            language: "zh",                              //语言
+            imageId: 0,	                                 //图片id，可设为0
+            containerId: "sliceContainer",               //容器id
+            //enableAnnotation: true,                    //是否显示标注
+            isMulti: isMulit,                            //是否是大体标本
+            isSave: isSave,                              //是否显示保存按钮
+            //autoLoadAnnos: true,                       //是否自动读取已有的标注
+            autoSaveAnnosBySaveBtn: false,               //利用库内自带的保存接口保存
+            saveAnnosCallback: this.saveNewAnnotation,   //保存回调
+            //delAnnoCallback: null,                     //删除回调
+            openCb:this.toolbar,                         //打开图片后的回调
+            toolbarEnable: false,                        //是否显示工具栏
+            creatPv: false,                              //是否使用库内自带的接口
+            thumbnailUrl: data.result.thumbnail          //导航图地址
+          });
+返回值：切片对象viewer
+
+----------------切片对象的api函数------------------
+openSL(slideIfo，callback)
+功能：根据切片信息打开切片,创建好切片对象后使用
+参数：slideIfo = new SL.SlideInfo(
+            data.result.id,                //图片id
+            data.result.displayName,       //图片名
+            data.result.url,               //图片地址
+            data.result.description,       //图片描述
+            data.result.scale,             //图片比例
+            data.result.width,             //图片宽度
+            data.result.height,            //图片高度
+            data.result.imageCount,        //图片数量
+            true,                          //是否有标注
+            annoArray,                     //标注数组
+            deviceId,                      //设备唯一标识
+            2,                             //优先级，固定值2
+            data.result.sign,              //签名
+            data.result.zoom,              //图片倍数
+            data.result.thumbnail);        //导航图地址
+
+标注数组格式转化
+      annoArray = [];
+      for (var index in annotations) {
+        var annot = JSON.parse(annotations[index].data);
+        for (var anno in annot) {
+
+          var ann = annot[anno];
+
+          var an = new SL.AnnotationInfo(
+            ann.id,                        // 当前标注 id
+            ann.guid,                      // 当前标注 guid
+            ann.imageId,                   // 图像 id
+            ann.name,                      // 当前标注名称
+            ann.description,               // 当前标注的相关描述
+            ann.imageIndex,                // 当前标注对应图像序列索引(第几张)
+            ann.scale,                     // 当前标注所在的放大倍数比例
+            ann.width,                     // 标注线宽
+            ann.type,                      // 当前标注类型
+            ann.region,                    // 标注所在的矩形区域(赋值必须为Rect类型)
+            ann.fontUnderLine,             // 文字的各项参数
+            ann.fontSize,
+            ann.fontFamily,
+            ann.fontItalic,
+            ann.fontBold,
+            ann.visible,                   // 标注是否可见
+            ann.color,                     // 标注颜色
+            ann.measurement,               // 标注测量
+            0,                      
+            0,
+            0,
+            ann.points);                   // 多边形各点的坐标
+
+          annoArray.push(an);
+        }
+      }
+返回值：无
+
+closeSL(callback)
+功能：关闭打开的图像并清空标注数组
+参数：callback 回调
+返回值：无
+
+zoomToObj(zoomCnt)
+功能：切换到指定倍数
+参数：zoomCnt //倍数 类型：number
+返回值：无
+
+saveAnnotations(callback)
+功能：保存当前标注，成功或失败都会弹出消息
+参数：callback 回调
+返回值：无
+
+getAnnotations(callback)
+功能：读取当前标注
+参数：callback 回调
+返回值：标注数组 类型：Array
+
+loadAnnotations(shape)
+功能：设置标注
+参数：shape //标注数组,可由getAnnotations获取 类型：Array
+返回值：无
+
+deleteAnnotation()
+功能：删除选中的标注
+参数：无
+返回值：无
+
+clearShapeCanvas()
+功能：清空标注
+参数：无
+返回值：无
+
+showAnnotations()
+功能：显示标注
+参数：无
+返回值：无
+
+linkTo(guid)
+功能：定位到标注
+参数：guid //标注的guid 类型：guid
+返回值：无
+			
+goHome()
+功能：全图自适应窗口
+参数：无
+返回值：无
+
+fullPage()
+功能：全屏
+参数：无
+返回值：无
+
+zoomIn()
+功能：放大倍数
+参数：无
+返回值：无
+
+zoomOut()
+功能：缩小倍数
+参数：无
+返回值：无
+
+setNavmap(para)
+功能：设置是否显示导航图
+参数：para //类型：bool
+返回值：无
+
+getCenter()
+功能：获取当前位置中心点的坐标
+参数：无
+返回值：当前中心点坐标 类型：point
+
+linkTo(args)
+功能：移动到相应的图片、坐标和倍数
+参数：args //数组，参数如下
+      [
+	imageIndex,         //图片index                       
+	{x,y},              //坐标
+	zoom                //倍数
+      ]
+返回值：无
+-----------------------------------------------------

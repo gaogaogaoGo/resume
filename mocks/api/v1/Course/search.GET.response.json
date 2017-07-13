@@ -1,0 +1,243 @@
+{
+  "result": {
+    "displayCount": 10,
+    "totalCount": 19,
+    "items": [
+      {
+        "name": "运动人体科学考前冲刺课程",
+        "learnCount": 178258,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-12/52594833-file_1494557039530_1f9.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "上皮组织",
+          "icon": null,
+          "id": 2
+        },
+        "teacher": {
+          "name": "admin_nju",
+          "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+          "introduction": null,
+          "school": {
+            "name": "南京大学",
+            "icon": "http://opmmvut2t.bkt.clouddn.com/17-5-12/32788997-file_1494551751722_fb4b.png",
+            "id": 5
+          },
+          "id": 8
+        },
+        "id": 10
+      },
+      {
+        "name": "运动人体科学考前冲刺课程",
+        "learnCount": 125548,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-12/52594833-file_1494557039530_1f9.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "上皮组织",
+          "icon": null,
+          "id": 2
+        },
+        "teacher": {
+          "name": "admin_whu",
+          "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+          "introduction": null,
+          "school": {
+            "name": "武汉大学",
+            "icon": "http://opmmvut2t.bkt.clouddn.com/17-5-12/50476494-file_1494551751948_f8b1.png",
+            "id": 6
+          },
+          "id": 9
+        },
+        "id": 11
+      },
+      {
+        "name": "运动人体科学考前冲刺课程",
+        "learnCount": 125545,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-12/52594833-file_1494557039530_1f9.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "上皮组织",
+          "icon": null,
+          "id": 2
+        },
+        "teacher": {
+          "name": "admin_zju",
+          "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+          "introduction": null,
+          "school": {
+            "name": "浙江大学",
+            "icon": "http://opmmvut2t.bkt.clouddn.com/17-5-12/55666397-file_1494551752054_134e7.png",
+            "id": 4
+          },
+          "id": 7
+        },
+        "id": 9
+      },
+      {
+        "name": "运动人体科学考前冲刺课程",
+        "learnCount": 58666,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-12/52594833-file_1494557039530_1f9.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "上皮组织",
+          "icon": null,
+          "id": 2
+        },
+        "teacher": {
+          "name": "admin_sddx",
+          "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+          "introduction": null,
+          "school": {
+            "name": "山东大学",
+            "icon": "http://opmmvut2t.bkt.clouddn.com/17-5-12/36560646-file_1494551751838_a661.jpg",
+            "id": 2
+          },
+          "id": 5
+        },
+        "id": 7
+      },
+      {
+        "name": "运动人体科学考前冲刺课程",
+        "learnCount": 45678,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-12/52594833-file_1494557039530_1f9.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "上皮组织",
+          "icon": null,
+          "id": 2
+        },
+        "teacher": {
+          "name": "admin_pku",
+          "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+          "introduction": null,
+          "school": {
+            "name": "中南大学",
+            "icon": "http://opmmvut2t.bkt.clouddn.com/17-5-12/49881214-file_1494554864957_12339.png",
+            "id": 3
+          },
+          "id": 6
+        },
+        "id": 8
+      },
+      {
+        "name": "运动人体科学考前冲刺课程",
+        "learnCount": 17785,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-12/52594833-file_1494557039530_1f9.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "上皮组织",
+          "icon": null,
+          "id": 2
+        },
+        "teacher": {
+          "name": "admin_fddx",
+          "avatar": "http://opmmvut2t.bkt.clouddn.com/17-5-12/64137367-file_1494556735804_1774d.png",
+          "introduction": null,
+          "school": {
+            "name": "复旦大学",
+            "icon": "http://opmmvut2t.bkt.clouddn.com/17-5-12/2022758-file_1494551751507_12a26.png",
+            "id": 8
+          },
+          "id": 11
+        },
+        "id": 13
+      },
+      {
+        "name": "针灸学",
+        "learnCount": 17785,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-13/82647200-file_1494638075673_40a.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "肿瘤",
+          "icon": null,
+          "id": 4
+        },
+        "teacher": {
+          "name": "习近平",
+          "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170513132138.png",
+          "introduction": "习近平，男，汉族，1953年6月生，陕西富平人，1969年1月参加工作，1974年1月加入中国共产党，清华大学人文社会学院马克思主义理论与思想政治教育专业毕业，在职研究生学历，法学博士学位。\r\n现任中国共产党中央委员会总书记，中共中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席。",
+          "school": {
+            "name": "北京大学",
+            "icon": "http://imgsize.ph.126.net/?enlarge=true&imgurl=http://nos.netease.com/edu-image/F78C41FA9703708FB193137A688F7195.png?imageView&thumbnail=150y150&quality=100_150x150x1x95.png",
+            "id": 1
+          },
+          "id": 4
+        },
+        "id": 14
+      },
+      {
+        "name": "针灸学1",
+        "learnCount": 17785,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-13/82647200-file_1494638075673_40a.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "肿瘤",
+          "icon": null,
+          "id": 4
+        },
+        "teacher": {
+          "name": "习近平",
+          "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170513132138.png",
+          "introduction": "习近平，男，汉族，1953年6月生，陕西富平人，1969年1月参加工作，1974年1月加入中国共产党，清华大学人文社会学院马克思主义理论与思想政治教育专业毕业，在职研究生学历，法学博士学位。\r\n现任中国共产党中央委员会总书记，中共中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席。",
+          "school": {
+            "name": "北京大学",
+            "icon": "http://imgsize.ph.126.net/?enlarge=true&imgurl=http://nos.netease.com/edu-image/F78C41FA9703708FB193137A688F7195.png?imageView&thumbnail=150y150&quality=100_150x150x1x95.png",
+            "id": 1
+          },
+          "id": 4
+        },
+        "id": 15
+      },
+      {
+        "name": "针灸学2",
+        "learnCount": 17785,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-13/82647200-file_1494638075673_40a.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "肿瘤",
+          "icon": null,
+          "id": 4
+        },
+        "teacher": {
+          "name": "习近平",
+          "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170513132138.png",
+          "introduction": "习近平，男，汉族，1953年6月生，陕西富平人，1969年1月参加工作，1974年1月加入中国共产党，清华大学人文社会学院马克思主义理论与思想政治教育专业毕业，在职研究生学历，法学博士学位。\r\n现任中国共产党中央委员会总书记，中共中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席。",
+          "school": {
+            "name": "北京大学",
+            "icon": "http://imgsize.ph.126.net/?enlarge=true&imgurl=http://nos.netease.com/edu-image/F78C41FA9703708FB193137A688F7195.png?imageView&thumbnail=150y150&quality=100_150x150x1x95.png",
+            "id": 1
+          },
+          "id": 4
+        },
+        "id": 16
+      },
+      {
+        "name": "针灸学3",
+        "learnCount": 17785,
+        "thumbnail": "http://opmmvut2t.bkt.clouddn.com/17-5-13/82647200-file_1494638075673_40a.jpg",
+        "creationTime": "2017-05-07T15:09:40Z",
+        "courseCategory": {
+          "displayName": "肿瘤",
+          "icon": null,
+          "id": 4
+        },
+        "teacher": {
+          "name": "习近平",
+          "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170513132138.png",
+          "introduction": "习近平，男，汉族，1953年6月生，陕西富平人，1969年1月参加工作，1974年1月加入中国共产党，清华大学人文社会学院马克思主义理论与思想政治教育专业毕业，在职研究生学历，法学博士学位。\r\n现任中国共产党中央委员会总书记，中共中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席。",
+          "school": {
+            "name": "北京大学",
+            "icon": "http://imgsize.ph.126.net/?enlarge=true&imgurl=http://nos.netease.com/edu-image/F78C41FA9703708FB193137A688F7195.png?imageView&thumbnail=150y150&quality=100_150x150x1x95.png",
+            "id": 1
+          },
+          "id": 4
+        },
+        "id": 17
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

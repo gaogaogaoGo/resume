@@ -1,0 +1,27 @@
+body {
+	/* Font */
+	font-family: sans-serif, Arial, Verdana, "Trebuchet MS";
+	font-size: 16px;
+
+	/* Text color */
+	color: #333;
+
+	/* Remove the background color to make it transparent */
+	background-color: #fff;
+
+	margin: 20px;
+}
+
+.cke_panel_block {
+	outline: none;
+}
+
+.cke_panel_grouptitle {
+	display: none !important;
+}
+
+/* Disables relative option sizes in font-size selection
+.cke_panel_listItem a span {
+	font-size: inherit !important;
+}
+*/

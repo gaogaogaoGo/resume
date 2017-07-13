@@ -1,0 +1,24 @@
+{
+  "result": {
+    "name": "杀毒",
+    "avatar": "http://10.10.10.27:8080/Public/avatar/4/20170513132138.png",
+    "signature": "一带一路才是王道！!",
+    "follows": 0,
+    "fans": 1,
+    "courses": 8,
+    "points": 0,
+    "signin": 0,
+    "isSignin": true,
+    "school": {
+      "name": "北京大学",
+      "icon": "http://imgsize.ph.126.net/?enlarge=true&imgurl=http://nos.netease.com/edu-image/F78C41FA9703708FB193137A688F7195.png?imageView&thumbnail=150y150&quality=100_150x150x1x95.png",
+      "id": 1
+    },
+    "id": 4
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

@@ -1,0 +1,42 @@
+{
+  "result": {
+    "displayCount": 1,
+    "totalCount": 100,
+    "items":[
+      {
+        "browserCount": 30,
+        "displayName": "细胞壁",
+        "idid": 4,
+        "school": null,
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg"
+      },
+      {
+        "browserCount": 30,
+        "displayName": "细胞壁",
+        "idid": 4,
+        "school": null,
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg"
+      },
+      {
+        "browserCount": 30,
+        "displayName": "细胞壁",
+        "idid": 4,
+        "school": null,
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg"
+      },
+      {
+        "browserCount": 30,
+        "displayName": "细胞壁",
+        "idid": 4,
+        "school": null,
+        "thumbnail": "http://i2.muimg.com/588926/36c8807a805b5dbc.jpg"
+      }
+    ]
+  },
+
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

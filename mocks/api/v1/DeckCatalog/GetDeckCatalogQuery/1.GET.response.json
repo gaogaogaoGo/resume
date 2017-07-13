@@ -1,0 +1,32 @@
+{
+  "result": [
+    {
+      "code": "00001",
+      "name": "第一章",
+      "description": "第一章",
+      "decks": [],
+      "children": [
+        {
+          "code": "00001.00001",
+          "name": "第一节",
+          "description": null,
+          "decks": [
+            {
+              "name": "第一课时",
+              "description": null,
+              "id": 1
+            }
+          ],
+          "children": [],
+          "id": 2
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}

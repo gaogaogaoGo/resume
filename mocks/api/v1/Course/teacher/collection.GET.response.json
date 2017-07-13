@@ -1,0 +1,81 @@
+{
+  "result": {
+    "displayCount": 1,
+    "totalCount": 10,
+    "items": [
+      {
+        "name": "学校课程",
+        "description": "学校课程描述",
+        "learnCount": 0,
+        "thumbnail": "/image/school/nr1.jpg",
+        "goal": "课程目标",
+        "isShared": 0,
+        "recommendOrder": 0,
+        "creationTime": "2017-05-04T14:17:45Z",
+        "courseCategory": {
+          "code": "00001.00001",
+          "displayName": "学校课程子目录",
+          "description": null,
+          "icon": null,
+          "id": 4
+        },
+        "teacher": {
+          "name": "李仪祉",
+          "avatar": "/image/school/02.png",
+          "professionalTitles": null,
+          "signature": null,
+          "recommendOrder": 0,
+          "school": {
+            "name": "",
+            "description": null,
+            "icon": null,
+            "code": null,
+            "recommendOrder": 0,
+            "id": 1
+          },
+          "id": 2
+        },
+        "id": 2
+      },
+      {
+        "name": "学校课程",
+        "description": "学校课程描述",
+        "learnCount": 0,
+        "thumbnail": "/image/school/nr1.jpg",
+        "goal": "课程目标",
+        "isShared": 0,
+        "recommendOrder": 0,
+        "creationTime": "2017-05-04T14:17:45Z",
+        "courseCategory": {
+          "code": "00001.00001",
+          "displayName": "学校课程子目录",
+          "description": null,
+          "icon": null,
+          "id": 4
+        },
+        "teacher": {
+          "name": "李仪祉",
+          "avatar": "/image/school/02.png",
+          "professionalTitles": null,
+          "signature": null,
+          "recommendOrder": 0,
+          "school": {
+            "name": "",
+            "description": null,
+            "icon": null,
+            "code": null,
+            "recommendOrder": 0,
+            "id": 1
+          },
+          "id": 2
+        },
+        "id": 3
+      }
+    ]
+  },
+  "targetUrl": null,
+  "success": true,
+  "error": null,
+  "unAuthorizedRequest": false,
+  "__dhp": true
+}
